@@ -58,11 +58,11 @@ const data = {
       isActive: false,
       items: [
         {
-          title: "History",
+          title: "Add Line Oa",
           url: "#",
         },
         {
-          title: "Starred",
+          title: "Total Line Oa",
           url: "#",
         },
         {
